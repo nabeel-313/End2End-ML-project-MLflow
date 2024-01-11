@@ -19,10 +19,12 @@
 ### STEPS:
 
 Clone the repository
+```
+https://github.com/nabeel-313/End2End-ML-project-MLflow.git
+```
 
-```bash
-https://github.com/nabeel-313/End2End-ML-project-MLflow.git```
 ### STEP 01- Create a conda environment after opening the repository
+
 
 ```bash
 conda create -n mlproj python=3.8 -y
